@@ -1,0 +1,14 @@
+E:\C#\MediaPOO\MediaPOO\bin\Debug\net7.0\MediaPOO.exe
+E:\C#\MediaPOO\MediaPOO\bin\Debug\net7.0\MediaPOO.deps.json
+E:\C#\MediaPOO\MediaPOO\bin\Debug\net7.0\MediaPOO.runtimeconfig.json
+E:\C#\MediaPOO\MediaPOO\bin\Debug\net7.0\MediaPOO.dll
+E:\C#\MediaPOO\MediaPOO\bin\Debug\net7.0\MediaPOO.pdb
+E:\C#\MediaPOO\MediaPOO\obj\Debug\net7.0\MediaPOO.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\MediaPOO\MediaPOO\obj\Debug\net7.0\MediaPOO.AssemblyInfoInputs.cache
+E:\C#\MediaPOO\MediaPOO\obj\Debug\net7.0\MediaPOO.AssemblyInfo.cs
+E:\C#\MediaPOO\MediaPOO\obj\Debug\net7.0\MediaPOO.csproj.CoreCompileInputs.cache
+E:\C#\MediaPOO\MediaPOO\obj\Debug\net7.0\MediaPOO.dll
+E:\C#\MediaPOO\MediaPOO\obj\Debug\net7.0\refint\MediaPOO.dll
+E:\C#\MediaPOO\MediaPOO\obj\Debug\net7.0\MediaPOO.pdb
+E:\C#\MediaPOO\MediaPOO\obj\Debug\net7.0\MediaPOO.genruntimeconfig.cache
+E:\C#\MediaPOO\MediaPOO\obj\Debug\net7.0\ref\MediaPOO.dll
